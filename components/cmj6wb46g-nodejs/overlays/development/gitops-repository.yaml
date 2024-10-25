@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cmj6wb46g-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cmj6wb46g-nodejs-gitops
